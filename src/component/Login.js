@@ -66,7 +66,7 @@ const Login = () => {
               <input type="password" name="pass" required />
             </div>
             <div className="button-container">
-              <input type="submit" />
+              <input type="submit" value="Login"/>
             </div>
           </form>
         </div>
